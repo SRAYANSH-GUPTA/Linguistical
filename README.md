@@ -18,10 +18,27 @@ A Duolingo-inspired mobile app where an AI teacher joins you on a live voice cal
 
 ---
 
+## 📱 Screens
+
+<table>
+  <tr>
+    <td align="center"><img src="prompt_material/02-onboarding-screen.png" width="220" /><br /><b>Onboarding</b></td>
+    <td align="center"><img src="prompt_material/03-auth-screen.png" width="220" /><br /><b>Sign in / Sign up</b></td>
+    <td align="center"><img src="prompt_material/04-language-selection-screen.png" width="220" /><br /><b>Pick a language</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="prompt_material/05-home-and-tab-navigation.png" width="220" /><br /><b>Home & tabs</b></td>
+    <td align="center"><img src="prompt_material/06-lesson-screen.png" width="220" /><br /><b>Lesson</b></td>
+    <td align="center"><img src="prompt_material/07-audio-lesson-screen.png" width="220" /><br /><b>AI voice lesson</b></td>
+  </tr>
+</table>
+
+---
+
 ## 📖 Table of Contents
 
-- [Features](#-features)
 - [Screens](#-screens)
+- [Features](#-features)
 - [How the AI Teacher Works](#-how-the-ai-teacher-works)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
@@ -46,23 +63,6 @@ A Duolingo-inspired mobile app where an AI teacher joins you on a live voice cal
 | 🔐 | **Authentication** | Email + social sign-in powered by Clerk, with email verification. |
 | 🎨 | **Playful UI** | Rounded cards, soft shadows, mascots, and a custom tab bar built with NativeWind. |
 | 📊 | **Product analytics** | Screen views and key events tracked with PostHog. |
-
----
-
-## 📱 Screens
-
-<table>
-  <tr>
-    <td align="center"><img src="prompt_material/02-onboarding-screen.png" width="220" /><br /><b>Onboarding</b></td>
-    <td align="center"><img src="prompt_material/03-auth-screen.png" width="220" /><br /><b>Sign in / Sign up</b></td>
-    <td align="center"><img src="prompt_material/04-language-selection-screen.png" width="220" /><br /><b>Pick a language</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="prompt_material/05-home-and-tab-navigation.png" width="220" /><br /><b>Home & tabs</b></td>
-    <td align="center"><img src="prompt_material/06-lesson-screen.png" width="220" /><br /><b>Lesson</b></td>
-    <td align="center"><img src="prompt_material/07-audio-lesson-screen.png" width="220" /><br /><b>AI voice lesson</b></td>
-  </tr>
-</table>
 
 ---
 
